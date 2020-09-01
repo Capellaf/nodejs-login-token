@@ -1,0 +1,4 @@
+*.log
+nodemon.json
+node_modules
+.env
